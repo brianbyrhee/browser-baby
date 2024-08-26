@@ -1,0 +1,54 @@
+p1 {
+  color: red;
+  font-style: oblique;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p2 {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p3 {
+  color: orange;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p4 {
+  background-color: palevioletred;
+}
+
+p5 {
+  color: teal;
+  font-weight: bold;
+}
+
+p6 {
+  color: forestgreen;
+  font-style: normal;
+  font-weight: 900;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p7 {
+  color: rebeccapurple;
+  font-style: normal;
+  font-stretch: expanded;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p8 {
+  color: burlywood;
+  font-style: italic;
+}
+
+p9 {
+  color: rebeccapurple;
+  font-style: oblique;
+}
+
+p10 {
+  color: navy;
+  font-size: x-large;
+}
+
